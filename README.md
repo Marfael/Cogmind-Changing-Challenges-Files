@@ -1,0 +1,4 @@
+# Cogmind-Changing-Challenges-Files
+
+
+To make these files working you need to download program "notepad++". Select all files and right click and click "Edit with Notepad++". Now click Ctrl+F click "Replace" and in Find wath type: "replacethis". In Replace with type your steam common folder(search in google if you don't know how to find it)/Cogmind/user/advanced.cfg. Add " at the beginning of the sentence and at the end. Now click "Replace All in All Opened Documents", close it. In left-top corner find "save all" and click it. Close. Now you can use these files to change challenge mode in Cogmind wihout going to folders. Enjoy :-)!
